@@ -1,0 +1,162 @@
+2023-07-24 15:36:08: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces - Notes: berry
+2023-07-24 15:41:30: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces - Notes: super berry 
+2023-07-24 18:16:06: Consumed Soda - Diet Coke (ID: 4) - Volume: 42.0 ounces
+2023-07-24 18:17:05: Consumed Water - Bog Standard Water (ID: 5) - Volume: 0.0 ounces - Notes: 0
+2023-07-24 19:33:55: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-24 19:45:53: Consumed Water - Bog Standard Water (ID: 5) - Volume: 20.0 ounces
+2023-07-24 20:59:41: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-24 22:00:30: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: RD
+2023-07-24 23:27:11: Consumed Water - Bog Standard Water (ID: 5) - Volume: 20.0 ounces
+2023-07-25 08:18:30: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces - Notes: milk and sugar
+2023-07-25 09:06:42: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-25 10:50:10: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-25 11:24:32: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces - Notes: 3b
+2023-07-25 12:19:08: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-25 14:44:58: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-25 15:36:00: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-25 16:25:06: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-25 17:55:51: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-25 18:31:04: Consumed Water - Bog Standard Water (ID: 5) - Volume: 20.0 ounces
+2023-07-25 21:57:32: Consumed Soda - Diet Coke (ID: 4) - Volume: 42.0 ounces
+2023-07-25 23:16:44: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: RD
+2023-07-26 09:01:00: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-26 09:26:14: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-26 10:24:25: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-26 15:23:59: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-26 15:24:10: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-26 16:10:31: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-26 17:16:30: Consumed Water - Bog Standard Water (ID: 5) - Volume: 20.0 ounces
+2023-07-26 17:55:07: Consumed Water - Bog Standard Water (ID: 5) - Volume: 20.0 ounces
+2023-07-26 19:16:31: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-26 21:22:46: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: Ooooooohlong
+2023-07-26 22:52:10: Consumed Tea - Hot tea (ID: 1) - Volume: 12.0 ounces - Notes: Sleepy
+2023-07-27 08:34:34: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces - Notes: M&S
+2023-07-27 09:35:51: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-27 10:17:07: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-27 10:17:48: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-27 11:57:03: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-27 13:26:20: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-27 15:28:31: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-27 17:04:41: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-27 21:41:17: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-27 22:11:55: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: ooohlong
+2023-07-27 22:49:05: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: schleepyu
+2023-07-28 08:31:06: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-28 09:16:51: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-28 11:25:03: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-28 11:37:08: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-28 12:36:36: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-28 14:41:35: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-28 16:13:18: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-28 18:36:45: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-28 19:57:56: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-28 20:59:48: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-28 22:45:39: Consumed Tea - Iced tea (ID: 2) - Volume: 18.0 ounces
+2023-07-29 00:02:43: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2023-07-29 09:56:20: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-29 11:13:41: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-29 14:03:54: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-29 16:25:19: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-29 17:18:17: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-29 17:22:23: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-29 21:17:30: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-29 21:36:10: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-29 22:41:47: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: BE
+2023-07-29 23:40:59: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: schleepy
+2023-07-30 08:36:26: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-30 13:03:34: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-30 20:46:37: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-30 20:48:22: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-30 21:40:39: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-30 21:54:47: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2023-07-31 08:09:26: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-31 08:38:37: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-07-31 15:25:23: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-31 17:17:35: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-31 17:18:41: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-31 19:29:32: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-07-31 22:19:35: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2023-07-31 22:42:21: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: oolomhg
+2023-08-01 09:19:10: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces - Notes: M&S
+2023-08-01 10:08:09: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-08-01 10:34:14: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-01 10:43:00: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-01 15:10:35: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-01 18:36:44: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-01 19:25:53: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-01 20:34:32: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-02 08:45:20: Consumed Coffee - Black coffee (ID: 3) - Volume: 16.0 ounces
+2023-08-02 10:45:09: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-02 15:27:20: Consumed Soda - Diet Coke (ID: 4) - Volume: 42.0 ounces
+2023-08-02 17:15:29: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-02 18:45:30: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-02 21:29:21: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2023-08-02 21:29:30: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: oooolong
+2023-08-02 22:59:40: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-03 12:32:55: Consumed Coffee - Black coffee (ID: 3) - Volume: 32.0 ounces
+2023-08-03 12:32:59: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-03 12:33:00: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-03 16:31:54: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-03 16:58:21: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2023-08-03 17:33:04: Consumed Tea - Iced tea (ID: 2) - Volume: 20.0 ounces
+2024-12-16 19:42:04: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: f test
+2024-12-16 19:55:03: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea
+2024-12-16 20:38:16: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea cuppa 2!
+2024-12-16 22:00:51: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea cuppa 3!
+2024-12-16 22:05:21: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: actual cuppa 3
+2024-12-17 15:01:37: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea
+2024-12-17 16:04:20: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2024-12-17 21:58:23: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 3
+2024-12-18 16:00:58: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2024-12-21 11:24:30: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: ginger cuppa
+2024-12-21 11:52:56: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: ginger cuppa 2
+2024-12-25 21:22:28: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: jasmine pearl ball tea
+2024-12-26 20:35:35: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: gunpowder green tea with miralax
+2024-12-26 21:15:22: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: Green tea cuppa 2
+2024-12-26 22:27:30: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: [C[Ccuppa 3
+2024-12-27 21:32:14: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2024-12-28 00:22:53: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2024-12-28 23:46:58: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea
+2024-12-29 00:23:51: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2024-12-29 22:13:35: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea
+2024-12-29 22:58:43: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2024-12-29 23:46:35: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: f
+2024-12-30 20:45:03: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2024-12-30 21:27:49: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: ginger tea cuppa 2
+2025-01-01 14:29:59: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2025-01-02 21:43:42: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: f 
+2025-01-02 22:15:52: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: flower tea cuppa 23
+2025-01-02 22:37:12: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: flower tea cuppa 3
+2025-01-02 22:41:27: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: f
+2025-01-04 17:19:25: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: jasmine tea
+2025-01-04 18:05:47: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2025-01-04 20:42:19: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 4
+2025-01-05 17:02:50: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea
+2025-01-05 18:40:02: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2025-01-05 21:39:40: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 3
+2025-01-06 19:55:03: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2025-01-07 17:33:04: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2025-01-07 19:06:18: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2025-01-07 20:22:57: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2025-01-07 23:29:39: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: f 
+2025-01-08 19:46:47: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea
+2025-01-08 20:25:21: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2025-01-08 21:18:48: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 3
+2025-01-08 22:06:38: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: fffcuppa 5
+2025-01-10 21:44:30: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: jasmine tea
+2025-01-11 20:06:09: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: ginger
+2025-01-11 20:42:33: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa2
+2025-01-11 23:16:52: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2025-01-13 22:56:32: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces
+2025-01-14 19:34:35: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: Chamomile
+2025-01-14 20:55:53: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2025-01-20 20:18:13: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: chamomile 
+2025-01-20 20:42:45: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2025-01-21 20:25:17: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea
+2025-01-21 20:44:38: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green tea cuppa 2
+2025-01-21 21:14:01: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 3
+2025-01-23 16:53:49: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: green teaw
+2025-01-23 17:09:42: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 2
+2025-01-23 17:36:26: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 3
+2025-01-23 20:17:29: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: cuppa 5?
+2025-01-23 21:15:05: Consumed Tea - Hot tea (ID: 1) - Volume: 16.0 ounces - Notes: fmugwart
